@@ -1,0 +1,5 @@
+location       = "westeurope"
+vm_name        = "prod-server"
+vm_size        = "Standard_D2als_v6"
+admin_username = "azureadmin"
+admin_password = "P@ssword123!"
